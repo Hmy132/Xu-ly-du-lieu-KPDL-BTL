@@ -1,0 +1,9 @@
+﻿Buoc,NoiDung,SoDongTruoc,SoDongLoai,SoDongConLai
+1,"Thiếu mã hóa đơn, mã hàng, ngày, số lượng, đơn giá hoặc quốc gia",541909,0,541909
+2,Ngoài phạm vi Anh đã chọn cho bài thực hành,541909,46431,495478
+3,Mã hóa đơn bắt đầu bằng C: hóa đơn hủy theo mô tả nguồn,495478,7856,487622
+4,Số lượng bằng 0 hoặc âm,487622,1336,486286
+5,Đơn giá bằng 0 hoặc âm; ngoài phạm vi hàng có trả tiền,486286,1163,485123
+6,Thiếu tên sản phẩm,485123,0,485123
+7,"Phí, điều chỉnh, hàng mẫu hoặc phiếu quà tặng",485123,1116,484007
+8,Giữ một bản của dòng trùng đủ 8 thông tin sau thống nhất cách viết,484007,5133,478874
